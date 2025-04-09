@@ -8,11 +8,10 @@ Bash (Bourne Again SHell) is a command processor that typically runs in a text w
 
 ## ⚙️ My Dynamic Script
 
-### Script Name: `your-dynamic-script.sh`
-
-This dynamic script is designed to perform intelligent and adaptive tasks depending on the environment. It includes features like:
+### This dynamic script is designed to perform intelligent and adaptive tasks depending on the environment. It includes features like:
 
 - ✅ Detecting system details (e.g., OS, architecture, hostname)
 - ✅ Gathering real-time stats like CPU, memory, and disk usage
 - ✅ Providing user-friendly output in a clean format
 - ✅ Useful for monitoring, automation, or as a base for more complex tools
+- And More
